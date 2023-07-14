@@ -1,0 +1,102 @@
+body{
+    margin: 0%;
+    border: 0%;
+    background-image:url("");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h3{
+    display: inline-block;
+    margin-top:1%;
+    margin-bottom:1.2%;
+    margin-left:0%;
+    padding-top:0%;
+    text-align:center;
+    font-size:100%;
+    font-weight: lighter;
+   
+}
+h5{  
+    margin-left:1.5%;
+    margin-top:0%;
+    padding-left:0%;
+    text-align:left;
+    font-size:50%;
+}
+.drop{
+    margin-top:0%;
+    display: inline;
+}
+.home{
+    text-align:center;
+    margin-top:0%;
+    font-size:bold;
+    padding:0%;
+    align-items: center;
+    align-content: center;
+    font-family:'Times New Roman', Times, serif;    
+}
+h4{
+    word-spacing:0em;
+}
+.bgcolor{
+    padding-bottom:1.5%;
+    padding-top: 1%;
+    text-align: center;
+}
+.para{
+    font-size:medium;
+}
+.head{
+    margin-top:-.5%;
+    padding-top:1%;
+    padding-bottom: 1%;
+    font-size:smaller;
+    margin-left:2%;
+    color: black;
+    text-align:left;
+}
+marquee{
+    font-weight: bold;
+    font-style: normal;
+    color: blue;
+}
+h2{
+    
+    text-align: center;
+}
+.home a{
+    color: black;
+    text-align:center;
+    padding:10px;
+    font-size: 15px;    
+    text-decoration: none;
+}
+.home a:hover{
+    
+    color: black;
+    cursor: pointer;
+}
+.home a:active{
+   
+    color: white;
+}
+.home a::selection{
+    color: white;
+}
+a:visited{
+    background-color: dodgerblue;
+}
+  .thank{
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom:3%;
+}
+.content{
+    margin-top:2%;
+    margin-left:10%;
+    margin-right:10%;
+    margin-bottom:0%;
+    text-align:center;
+    font-size:85%;
+}
